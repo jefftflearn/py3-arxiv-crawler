@@ -7,8 +7,9 @@ python version: 3.6
 ## usage
 ### step0
 install librarys below:
-  pip install arxiv
-  pip install -U -q PyDrive
+
+  1. pip install arxiv
+  2. pip install -U -q PyDrive
   
 ### step1
 clone this repository
