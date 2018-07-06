@@ -1,5 +1,3 @@
-!pip install arxiv
-!pip install -U -q PyDrive
 import arxiv as axv
 import urllib
 import os
